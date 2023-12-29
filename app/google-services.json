@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "673819325303",
+    "firebase_url": "https://crudfirebase-db3e2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crudfirebase-db3e2",
+    "storage_bucket": "crudfirebase-db3e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673819325303:android:c75dcdb246752c1b49a772",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4JErQi4_lKn2VM5_UydE2FpYDgNZdgcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
